@@ -1,5 +1,7 @@
 # GPT-VocalAssistant-vscode
 
+# * * HELP WANTED * *
+
 ## Description
 
 Plugin for vs code that will be your assistant.
